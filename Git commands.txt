@@ -1,0 +1,8 @@
+cmd #to open command prompt
+git clone https://github.com/rishabh-kausish/hello-git.git(url of the repository) #to create the folder on the system
+git add -A #to add a file on the server
+git commit -m "msg" #to move the file forward
+git push -u origin master #to push the file into the github repository
+git status #to check the status of the files in the system folder
+git config --global user.name "" #to link github username
+git config --global user.email "" #to link github email address
